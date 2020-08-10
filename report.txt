@@ -1,0 +1,2 @@
+TO RUN: In the Systematic directory, open 2 command windows. In the first, run “elm-live Main.elm --pushstate” and in the second, run “json-server --watch db.json -p 5019”. If necessary, install elm-live and json-server before running.
+

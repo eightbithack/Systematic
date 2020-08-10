@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "title": "Test",
+      "description": "Here's a Test",
+      "status": false,
+      "started": "5-24-2020",
+      "due": 2,
+      "id": 1
+    },
+    {
+      "title": "Test 2",
+      "description": "Some more words being added",
+      "status": true,
+      "started": "6-2-2020",
+      "due": 3,
+      "id": 2
+    },
+    {
+      "title": "Buy Milk again",
+      "description": "Grab some more milk!",
+      "status": false,
+      "started": "5-30-2020",
+      "due": 4,
+      "id": 3
+    },
+    {
+      "title": "Complete the readme",
+      "description": "Get the readme for this project done",
+      "status": true,
+      "started": "6-7-2020",
+      "due": 2,
+      "id": 4
+    },
+    {
+      "title": "Send that email",
+      "description": "You know, that one?",
+      "status": false,
+      "started": "6-4-2020",
+      "due": 5,
+      "id": 5
+    },
+    {
+      "title": "SLEEP",
+      "description": "Get more sleep plz, you need it",
+      "status": false,
+      "started": "6-1-2020",
+      "due": 7,
+      "id": 6
+    },
+    {
+      "title": "Test7",
+      "description": "kllklkl",
+      "status": true,
+      "started": "6-11-2020",
+      "due": 9,
+      "id": 7
+    },
+    {
+      "title": "Test8",
+      "description": "Hopefully this works",
+      "status": false,
+      "started": "6-12-2020",
+      "due": 9,
+      "id": 8
+    },
+    {
+      "title": "Finish my presentation",
+      "description": "Finish the presentation for all these nice people",
+      "status": false,
+      "started": "6-12-2020",
+      "due": 1,
+      "id": 9
+    }
+  ]
+}
